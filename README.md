@@ -48,7 +48,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Fork-Awesome**](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit (Font-Awesome 4.7)
 
 - ##  Loaders
-	 - [**Carbon**](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
+	 - [**Loaders.css**](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
      - [**Epic-Spinners**](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration 
 
 - ##  Bonus
