@@ -13,6 +13,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Charts](#charts)
 * [Icons](#icons)
 * [Loaders](#loaders)
+* [Functional](#functional)
 * [Bonus](#bonus)
 
 </details>
@@ -51,10 +52,18 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Loaders.css**](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
      - [**Epic-Spinners**](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration 
 
+- ##  Functional
+	 - [**Lodash**](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+	 - [**Ramda**](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
+	 - [**Moment.js**](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
+
+	
 - ##  Bonus
 	 - [**Carbon**](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code.
      - [**Bojler**](https://github.com/Slicejack/bojler) - CSS Framework for Emails.
      - [**BasicScroll**](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 
-
+  
+  
 > Feel free to contribute or contact me on [**telegram**](https://t.me/agonxgashi)
