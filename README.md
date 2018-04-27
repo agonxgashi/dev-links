@@ -25,6 +25,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Shards-UI**](https://github.com/DesignRevision/shards-ui) - Shards is a free and modern Bootstrap 4 (final) UI toolkit.
 	 - [**Bulma**](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 	 - [**ConciseCSS**](https://github.com/ConciseCSS/concise.css) - A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
+	 - [**Muuri**](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts.
 
 - ## Material-UI
 	 - [**Material Components Web**](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
