@@ -34,6 +34,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 
 - ##  Effects
 	 - [**Micron**](https://webkul.github.io/micron/) - Add an interaction to the DOM element with data attributes.
+	 - [**ParticleEffectsButtons**](https://github.com/codrops/ParticleEffectsButtons/) - A little library that can be used for bursting particles effects on buttons and other elements.
 
 - ##  Charts
 	 - [**D3**](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
