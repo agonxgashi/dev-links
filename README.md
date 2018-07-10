@@ -14,7 +14,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Icons](#icons)
 * [Loaders](#loaders)
 * [Functional](#functional)
-* [Articles & Blogs](#Articles-&-Blogs)
+* [Articles & Blogs](#articles--blogs)
 * [Bonus](#bonus)
 
 </details>
