@@ -14,6 +14,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Icons](#icons)
 * [Loaders](#loaders)
 * [Functional](#functional)
+* [Articles & Blogs](#Articles-&-Blogs)
 * [Bonus](#bonus)
 
 </details>
@@ -60,6 +61,9 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Moment.js**](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 
+- ##  Articles & Blogs
+	- [**Alligator**](https://alligator.io/) - Front-End Web Development,
+Chewed Up
 	
 - ##  Bonus
 	 - [**Carbon**](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code.
