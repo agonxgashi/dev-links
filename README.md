@@ -24,6 +24,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Bootstrap**](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. 
 	 - [**Semantic-UI**](https://github.com/semantic-org/semantic-ui) - Semantic is a UI component framework based around useful principles from natural language.
 	 - [**Shards-UI**](https://github.com/DesignRevision/shards-ui) - Shards is a free and modern Bootstrap 4 (final) UI toolkit.
+	 - [**Boomerang UI Kit**](https://github.com/webpixels/boomerang-ui-kit) - Boomerang is a high quality UI Kit built on top of the well known Bootstrap 4 Framework.
 	 - [**Bulma**](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 	 - [**ConciseCSS**](https://github.com/ConciseCSS/concise.css) - A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
 	 - [**Muuri**](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts.
@@ -71,5 +72,5 @@ Chewed Up
      - [**BasicScroll**](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 
   
-  
+  ---
 > Feel free to contribute or contact me on [**telegram**](https://t.me/agonxgashi)
