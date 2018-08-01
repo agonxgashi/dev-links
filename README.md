@@ -14,6 +14,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Icons](#icons)
 * [Loaders](#loaders)
 * [Functional](#functional)
+* [Tools](#tools)
 * [Articles & Blogs](#articles--blogs)
 * [Bonus](#bonus)
 
@@ -37,6 +38,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 - ##  Effects
 	 - [**Micron**](https://webkul.github.io/micron/) - Add an interaction to the DOM element with data attributes.
 	 - [**ParticleEffectsButtons**](https://github.com/codrops/ParticleEffectsButtons/) - A little library that can be used for bursting particles effects on buttons and other elements.
+     - [**BasicScroll**](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 
 - ##  Charts
 	 - [**D3**](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
@@ -62,14 +64,17 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Moment.js**](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 
-- ##  Articles & Blogs
-	- [**Alligator**](https://alligator.io/) - Front-End Web Development,
-Chewed Up
-	
-- ##  Bonus
+- ##  Tools
+	- [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
 	 - [**Carbon**](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code.
      - [**Bojler**](https://github.com/Slicejack/bojler) - CSS Framework for Emails.
-     - [**BasicScroll**](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
+
+- ##  Articles & Blogs
+	- [**Alligator**](https://alligator.io/) - Front-End Web Development, Chewed Up  
+	- [**Dev.to**](https://dev.to/) - Where programmers share ideas and help each other grow
+	
+
+
 
   
   ---
