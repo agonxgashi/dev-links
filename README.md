@@ -39,6 +39,8 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Micron**](https://webkul.github.io/micron/) - Add an interaction to the DOM element with data attributes.
 	 - [**ParticleEffectsButtons**](https://github.com/codrops/ParticleEffectsButtons/) - A little library that can be used for bursting particles effects on buttons and other elements.
      - [**BasicScroll**](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
+	- [**Simplebar**](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
+
 
 - ##  Charts
 	 - [**D3**](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
@@ -65,7 +67,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 
 - ##  Tools
-	- [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
+	 - [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
 	 - [**Carbon**](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code.
      - [**Bojler**](https://github.com/Slicejack/bojler) - CSS Framework for Emails.
 
