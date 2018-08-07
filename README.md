@@ -45,6 +45,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 - ##  Charts
 	 - [**D3**](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 	 - [**C3**](https://github.com/c3js/c3) - A D3-based reusable chart library.
+	 - [**Ploty.js**](https://github.com/plotly/plotly.js) The open source JavaScript graphing library that powers plotly
 	 - [**Charts.js**](https://github.com/danielgindi/Charts) - Simple HTML5 Charts using the ``` <canvas> ``` tag
 	 - [**Frappe**](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 
