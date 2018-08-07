@@ -16,7 +16,6 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Functional](#functional)
 * [Tools](#tools)
 * [Articles & Blogs](#articles--blogs)
-* [Bonus](#bonus)
 
 </details>
 
