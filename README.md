@@ -64,6 +64,8 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Ramda**](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
 	 - [**Moment.js**](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
+	 - [**Underscorejs**](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+	 - [**json-server**](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 - ##  Tools
 	 - [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
