@@ -65,13 +65,15 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Moment.js**](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 	 - [**Underscorejs**](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
-	 
+
+
 
 - ##  Tools
 	- [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
 	- [**Carbon**](https://github.com/dawnlabs/carbon) - Create and share beautiful images of your source code.
     - [**Bojler**](https://github.com/Slicejack/bojler) - CSS Framework for Emails.
 	- [**JSON-server**](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+  - [**Axios**](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 - ##  Articles & Blogs
 	- [**Alligator**](https://alligator.io/) - Front-End Web Development, Chewed Up  
