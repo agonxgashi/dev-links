@@ -66,6 +66,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 	 - [**Mathjs**](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 	 - [**Underscorejs**](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 	 - [**json-server**](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+	  - [**axios**](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 - ##  Tools
 	 - [**Purgecss**](https://github.com/FullHuman/purgecss) - Remove unused css
