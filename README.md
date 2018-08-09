@@ -4,9 +4,8 @@
 
 This is a repo where useful links dedicated to web development (mostly for front-end developers) are gathered. Feel free to contribute, fork or star this repo :grin:. 
 
-<details>
-  <summary><strong>Contents</strong></summary>
 
+### Content
 * [General](#general)
 * [Material-UI](#material-ui)
 * [Effects](#effects)
@@ -17,9 +16,9 @@ This is a repo where useful links dedicated to web development (mostly for front
 * [Tools](#tools)
 * [Articles & Blogs](#articles--blogs)
 
-</details>
 
-  
+
+---
 - ##  General
 	 - [**Bootstrap**](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. 
 	 - [**Semantic-UI**](https://github.com/semantic-org/semantic-ui) - Semantic is a UI component framework based around useful principles from natural language.
@@ -74,6 +73,7 @@ This is a repo where useful links dedicated to web development (mostly for front
 - ##  Articles & Blogs
 	- [**Alligator**](https://alligator.io/) - Front-End Web Development, Chewed Up  
 	- [**Dev.to**](https://dev.to/) - Where programmers share ideas and help each other grow
+	- [**MDN**](https://developer.mozilla.org/en-US/) - Resources for developers, by developers.
 	
 
 
