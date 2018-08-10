@@ -74,6 +74,8 @@ This is a repo where useful links dedicated to web development (mostly for front
     - [**Bojler**](https://github.com/Slicejack/bojler) - CSS Framework for Emails.
 	- [**JSON-server**](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
   - [**Axios**](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+  - [**nodemon**](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+  
 
 - ##  Articles & Blogs
 	- [**Alligator**](https://alligator.io/) - Front-End Web Development, Chewed Up  
