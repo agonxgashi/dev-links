@@ -2,7 +2,7 @@
 
 ### Created for developers  
 
-This is a repo where useful links dedicated to web development (mostly for front-end developers) are gathered. Feel free to contribute, fork or star this repo :grin:. 
+This is a repo where useful links dedicated to web development (mostly for front-end developers) are gathered. Feel free to contribute, fork or star this repo. All included libraries are open-source <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> 
 
 
 ### Content
